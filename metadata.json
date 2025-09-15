@@ -1,0 +1,5 @@
+{
+  "name": "Cargo Tracker",
+  "description": "A comprehensive cargo shipment management system with real-time tracking, admin controls, booking, and AI-powered predictions for delivery times and weather alerts.",
+  "requestFramePermissions": []
+}
